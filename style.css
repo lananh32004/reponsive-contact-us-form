@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Poppins:wght@300&family=Vollkorn&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito&family=Playfair+Display&family=Poppins:wght@300&family=Vollkorn&display=swap');
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Nunito', sans-serif;
 }
 
 body {
@@ -59,7 +59,7 @@ body {
     margin-bottom: 10px;
 }
 .content .left-side .details .topic {
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 500;
 }
 
